@@ -50,7 +50,7 @@
 
 
 
-**![Financial Table](images/financial\_contributions.png)**
+![Financial Table](images/financial_%20contributions.png)
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-**![Financial Formula](images/financial\_contributions\_formula.png)**
+![Financial Formula](images/financial_%20contributions_formula.png)
 
 
 
@@ -74,8 +74,7 @@
 
 
 
-**!\
-[Yearly Trends Formula](images/yearly\_trends\_formula.png)**
+**![Yearly Trends Formula](images/yearly\_trends\_formula.png)**
 
 
 

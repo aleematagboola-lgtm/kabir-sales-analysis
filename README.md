@@ -33,8 +33,7 @@
 
 
 
-!\
-[Rep Activity Table](images/rep\_activity.png)
+![Rep Activity Table](images/rep\_activity.png)
 
 
 
@@ -43,8 +42,7 @@
 
 
 
-**!\
-[Rep Activity Formula](images/rep\_activity\_formula.png)**
+**![Rep Activity Formula](images/rep\_activity\_formula.png)**
 
 
 
@@ -52,8 +50,7 @@
 
 
 
-**!\
-[Financial Table](images/financial\_contributions.png)**
+**![Financial Table](images/financial\_contributions.png)**
 
 
 
@@ -61,8 +58,7 @@
 
 
 
-**!\
-[Financial Formula](images/financial\_contributions\_formula.png)**
+**![Financial Formula](images/financial\_contributions\_formula.png)**
 
 
 
@@ -70,8 +66,7 @@
 
 
 
-**!\
-[Yearly Trends Table](images/yearly\_trends.png)**
+**![Yearly Trends Table](images/yearly\_trends.png)**
 
 
 

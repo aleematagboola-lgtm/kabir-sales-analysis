@@ -14,7 +14,11 @@
 
 &#x20;**📂 Project Resources**
 
-**\* \*\*\[View Full Excel Workbook](./data/)\*\***
+
+
+
+
+**\[View Full Excel Workbook](./data/)**
 
 
 
@@ -26,11 +30,13 @@
 
 **1. Representative Activity (COUNTIF)**
 
+
+
 **!\[Rep Activity Table](images/rep\_activity.png)**
 
 
 
-**\*Formula View:\***
+**Formula View:**
 
 
 
@@ -40,11 +46,13 @@
 
 **2. Financial Contributions (SUMIF)**
 
+
+
 **!\[Financial Table](images/financial\_contributions.png)**
 
 
 
-**\*Formula View:\***
+**Formula View:**
 
 
 
@@ -54,11 +62,13 @@
 
 **3. Yearly Trends**
 
+
+
 **!\[Yearly Trends Table](images/yearly\_trends.png)**
 
 
 
-**\*Formula View:\***
+**Formula View:**
 
 
 
@@ -76,21 +86,21 @@
 
 **Efficiency Analysis**
 
-**Most Active Rep:\*\* Tola is the most active representative with 7 transactions.**
+**Most Active Rep: Tola is the most active representative with 7 transactions.**
 
-**Revenue Leader:\*\* Tola is also a top performer in terms of revenue, generating $82,720.00.**
+**Revenue Leader: Tola is also a top performer in terms of revenue, generating $82,720.00.**
 
 
 
 **Behavior Suggestion:**
 
-**Since Tola has both the highest transaction count and high revenue, it suggests a \*\*"high-velocity"\*\* sales behavior—balancing a large number of deals while still maintaining quality. The company should look at Tola's workflow as a model for other reps to increase their volume without losing deal value.**
+**Since Tola has both the highest transaction count and high revenue, it suggests a "high-velocity" sales behavior, balancing a large number of deals while still maintaining quality. The company should look at Tola's workflow as a model for other reps to increase their volume without losing deal value.**
 
 
 
 **Trend Analysis \& Staffing Decision**
 
-**Based on the yearly performance—which saw quantity sold fall from 476 to 380 and finally 368—the company should \*\*reduce or maintain current staff levels\*\* rather than hiring for 2013.**
+**Based on the yearly performance—which saw quantity sold fall from 476 to 380 and finally 368; the company should reduce or maintain current staff levels rather than hiring for 2013.**
 
 
 

@@ -49,13 +49,13 @@ Revenue Leader: Tola is also a top performer in terms of revenue, generating $82
 
 
 **Behavior Suggestion**
-Since Tola has both the highest transaction count and high revenue, it suggests a "high-velocity" sales behavior—balancing a large number of deals while still maintaining quality. The company should look at Tola's workflow as a model for other reps to increase their volume without losing deal value.
+Since Tola has both the highest transaction count and high revenue, it suggests a "high-velocity" sales behavior, balancing a large number of deals while still maintaining quality. The company should look at Tola's workflow as a model for other reps to increase their volume without losing deal value.
 
 
 
 **Trend Analysis**
 
-**Staffing Decision**: Based on the yearly performance—which saw quantity sold fall from 476 to 380 and finally 368—the company should reduce or maintain current staff levels rather than hiring for 2013.
+**Staffing Decision**: Based on the yearly performance, which saw quantity sold fall from 476 to 380 and finally 368—the company should reduce or maintain current staff levels rather than hiring for 2013.
 
 
 

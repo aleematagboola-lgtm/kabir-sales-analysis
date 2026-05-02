@@ -4,8 +4,7 @@
 
 **Executive Summary**
 
-**The business shows a slight decreasing trend in sales volume, with the total quantity sold dropping from 476 units in 2010 to 368 units in 2012. Despite the decline, high-value transactions remain stable, reaching up to $20,900.00.**
-
+This report reviews the sales performance of the company from 2010 to 2012. The aim is to understand how each sales representative is performing, identify trends over time, and provide insights that will help management make better decisions for the 2013 fiscal year.
 
 
 
@@ -18,8 +17,29 @@
 
 
 
+
 \
 [View Full Excel Workbook](./data/)
+
+Key Findings
+Most Consistent Performer
+
+From the analysis, Abdul appears to be the most consistent sales representative. His sales figures remain fairly stable across the three years, with no major spikes or drops. This suggests that he is reliable and maintains a steady level of performance.
+
+Highest Sales Volume
+
+In terms of total revenue generated, Tola stands out as the top performer. She contributes the highest overall sales, which makes her a key driver of revenue for the company.
+
+Performance Trends
+
+Looking at total sales across the years:
+
+2010 recorded the highest sales
+Sales dropped in 2011
+There was a further slight decline in 2012
+
+Overall, the trend shows a steady decrease in performance over the three-year period. This could point to external factors like market conditions or internal issues such as sales strategy or efficiency.
+
 
 
 
@@ -82,33 +102,30 @@
 
 
 
-**Business Recommendations**
+Business Insights and Recommendations
+Efficiency
 
+Abdul has one of the highest numbers of transactions but does not generate the highest revenue.
 
+This suggests that:
 
-**Efficiency Analysis**
+He handles many sales, but they are likely smaller in value
+He is active and productive, but there is room to improve the size of each sale
 
-**Most Active Rep: Tola is the most active representative with 7 transactions.**
+It may be helpful to support him with strategies like upselling or focusing on higher-value customers.
 
-**Revenue Leader: Tola is also a top performer in terms of revenue, generating $82,720.00.**
+Trend Analysis (2013 Decision)
 
+Based on the declining sales trend, it would be better for the company to hold off on hiring more staff for now.
 
+Instead, the focus should be on:
 
-**Behavior Suggestion:**
+Improving the performance of current sales representatives
+Reviewing the sales approach
+Finding ways to increase revenue per transaction
 
-**Since Tola has both the highest transaction count and high revenue, it suggests a "high-velocity" sales behavior, balancing a large number of deals while still maintaining quality. The company should look at Tola's workflow as a model for other reps to increase their volume without losing deal value.**
+Once sales begin to improve again, the company can then consider expanding the team.
 
+Conclusion
 
-
-**Trend Analysis \& Staffing Decision**
-
-**Based on the yearly performance—which saw quantity sold fall from 476 to 380 and finally 368; the company should reduce or maintain current staff levels rather than hiring for 2013.**
-
-
-
-**Reasoning:**
-
-**With a consistent three-year decline in sales volume, adding more staff would increase overhead costs without a guaranteed return. The focus for 2013 should be on marketing and increasing the sales volume of the existing team first.**
-
-
-
+The analysis shows that while there are strong individual performers, overall sales have been declining. The company should focus on improving efficiency and sales strategy rather than expanding immediately.
